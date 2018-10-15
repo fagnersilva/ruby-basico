@@ -1,3 +1,5 @@
+![Ruby](/assets/ruby.png)
+
 # Ruby Básico
 
 O Ruby é uma linguagem interpretada, orientada a objetos, com características de linguagens funcionais e extremamente dinâmica.
